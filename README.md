@@ -61,10 +61,12 @@
 ## Key Takeaways
 - Pokemon from the DP (4th) gen are especially powerful in the meta, dominating the top division for all of the generations from its release except for the SS (8th) gen
 - The trend for meta development always revolve around strong attackers. ATK and SPA are always the most outstanding stat, next to SPE.
-- From gen DP (4th) on-wards, new released pokemons always have higher overall stats, suggesting the trend 
+- From gen DP (4th) on-wards, new released pokemons always have higher overall stats, suggesting that meta development will be favoured towards new pokemons
+- The % of new pokemons are placed in top meta tiers at a higher rate than older pokemons. Particularly in gen DP (4th) and SS(8th), new pokemons are placed in top meta almost 2x as frequent as older ones.
 ---
 ## Contact
-If you want to discuss this project or collaborate, connect with me:
+If you want to discuss this project or collaborate, connect with me:  
+Email: jackliao2314@gmail.com
 
 
 
