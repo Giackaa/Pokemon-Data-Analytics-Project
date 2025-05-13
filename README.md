@@ -56,7 +56,7 @@
 - ![image](https://github.com/user-attachments/assets/4e33b8f1-7a68-4fd6-b088-b27ce5155808)  
   - stats comparison of new released vs. existing pokemon, as well as a trend line graphing meta development
 - ![image](https://github.com/user-attachments/assets/7147647d-7764-498f-b432-3c02c1ee080f)  
-  - how much of them new released vs. existing pokemon are placed in high-tiers
+  - how much of new released vs. existing pokemon are placed in high-tiers
 ---
 ## Key Takeaways
 - Pokemon from the DP (4th) gen are especially powerful in the meta, dominating the top division for all of the generations from its release except for the SS (8th) gen
